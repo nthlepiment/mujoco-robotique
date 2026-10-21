@@ -1,0 +1,4 @@
+mujoco_menagerie/
+mujoco-env/
+__pycache__/
+.DS_Store
